@@ -17,6 +17,7 @@ public class Reclamaciones {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Modificación 1");
+        System.out.println("Modificación 2");
     }
     
 }
