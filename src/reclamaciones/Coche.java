@@ -9,14 +9,6 @@ package reclamaciones;
  *
  * @author usuario
  */
-public class Reclamaciones {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Modificación 1");
-    }
+public class Coche {
     
 }
