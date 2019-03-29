@@ -21,5 +21,8 @@ public class Reclamaciones {
         System.out.println("Modificación 3 - Ricardo");
         System.out.println("Modificación 4 - Ignacio");
     }
+    public static void nuevoIgnacio() {
+        System.out.println("Nuevo método de Ignacio 1");
+    }
     
 }
