@@ -23,6 +23,13 @@ public class Reclamaciones {
     }
     public static void nuevoIgnacio() {
         System.out.println("Nuevo método de Ignacio 1");
+        System.out.println("Ricardo - Cambio 1");
+        System.out.println("Ricardo - Cambio 2");
+        System.out.println("Ricardo - Cambio 3");
+        System.out.println("Ricardo - Cambio 4");
+        System.out.println("Ricardo - Cambio 5");
+        System.out.println("Ricardo - Cambio 6");
+        
     }
     public static void nuevoRicardo(){
         System.out.println("Nuevo método de Ricardo 1");
