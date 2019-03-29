@@ -22,7 +22,12 @@ public class Reclamaciones {
         System.out.println("Modificación 4 - Ignacio");
     }
     public static void nuevoIgnacio() {
-        System.out.println("Nuevo método de Ignacio 1");
+        System.out.println("Ignacio - Cambio 1");
+        System.out.println("Ignacio - Cambio 2");
+        System.out.println("Ignacio - Cambio 3");
+        System.out.println("Ignacio - Cambio 4");
+        System.out.println("Ignacio - Cambio 5");
+        System.out.println("Ignacio - Cambio 6");
     }
     public static void nuevoRicardo(){
         System.out.println("Nuevo método de Ricardo 1");
