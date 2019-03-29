@@ -36,6 +36,11 @@ public class Reclamaciones {
         System.out.println("Ignacio - Cambio 4");
         System.out.println("Ignacio - Cambio 5");
         System.out.println("Ignacio - Cambio 6");
+
+
+
+        System.out.println("Ignacio - Cambio 7");
+
     }
     public static void nuevoRicardo(){
         System.out.println("Nuevo método de Ricardo 1");
