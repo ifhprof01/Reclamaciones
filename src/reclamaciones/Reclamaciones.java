@@ -20,6 +20,7 @@ public class Reclamaciones {
         System.out.println("Modificación 2");
         System.out.println("Modificación 3 - Ricardo");
         System.out.println("Modificación 4 - Ignacio");
+        System.out.println("Modificación 5 - Funcionalidad1");
     }
     public static void nuevoIgnacio() {
         System.out.println("Nuevo método de Ignacio 1");
